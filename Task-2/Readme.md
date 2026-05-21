@@ -23,10 +23,15 @@ File Handling
 ✨ Features
 
 ✅ Displays available stock prices
+
 ✅ Accepts user stock inputs
+
 ✅ Supports multiple stock purchases
+
 ✅ Calculates total investment value
+
 ✅ Saves portfolio summary into portfolio.txt
+
 ✅ Beginner-friendly Python logic
 
 
@@ -37,6 +42,7 @@ Smart-Stock-Portfolio-Tracker/
 ├── portfolio_tracker.py
 ├── portfolio.txt
 └── README.md
+
 ▶️ How to Run the Project
 Install Python on your system
 Save the program as:
@@ -94,6 +100,8 @@ File Handling in Python
 
 
 Real-world Mini Project Development
+
+
 🎯 Internship Task
 
 CodeAlpha Python Programming Internship – Task 2
