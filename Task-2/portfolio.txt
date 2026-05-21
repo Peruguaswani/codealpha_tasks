@@ -1,0 +1,7 @@
+Stock portfolio Summary
+---------------
+Stock 1 Name: TSLP
+Quantity: 5
+Stock 2 Name: AAPL
+Quantity: 4
+Total Investment Value: 1130
